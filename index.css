@@ -1,0 +1,276 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  align-items: center;
+  width: 100%;
+  height: 590px;
+}
+.header {
+  width: 100%;
+  height: 70px;
+  justify-content: space-between;
+  display: flex;
+}
+
+.logo-uno {
+  width: 60px;
+  height: 55px;
+  margin-top: 18px;
+  margin-left: 17px;
+}
+
+.burguer {
+  width: 50px;
+  height: 50px;
+  margin-top: 18px;
+  margin-right: 17px;
+}
+
+.seccion-uno {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.titulo {
+  margin-top: 50px;
+  font-family: monospace;
+  font-size: 40px;
+  text-align: center;
+}
+
+.foto {
+  margin-top: 43px;
+  width: 300px;
+  height: 300px;
+}
+
+.seccion-dos {
+  background-color: #e4cc85d7;
+  width: 100%;
+  height: 538px;
+}
+
+.presentacion {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.subtitulo {
+  margin-top: 50px;
+  font-family: monospace;
+  font-size: 32px;
+  text-align: center;
+}
+
+.parrafo-presentacion {
+  font-family: "Roboto";
+  font-size: 18px;
+  margin-top: 35px;
+  margin: 30px;
+}
+
+.logo {
+  width: 90px;
+  height: 90px;
+  margin-top: 20px;
+}
+
+.seccion-tres {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 1375px;
+}
+
+.servicios-titulo {
+  font-family: monospace;
+  font-size: 32px;
+  margin-top: 70px;
+  margin-bottom: 50px;
+}
+.servicios {
+  margin-bottom: 50px;
+}
+
+.modelo-servicio {
+  display: flex;
+  align-items: center;
+  width: 80%;
+  max-width: 800px;
+  flex-direction: column;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 30px;
+}
+
+.logo-serv-uno {
+  width: 130px;
+  height: 130px;
+}
+
+.titulo-serv-uno {
+  font-family: "Roboto";
+  font-size: 26px;
+}
+
+.texto-serv-uno {
+  font-family: "Roboto";
+  font-size: 16px;
+}
+
+.logo-serv-dos {
+  width: 130px;
+  height: 130px;
+}
+
+.titulo-serv-dos {
+  font-family: "Roboto";
+  font-size: 26px;
+}
+
+.texto-serv-dos {
+  font-family: "Roboto";
+  font-size: 16px;
+}
+
+.logo-serv-tres {
+  width: 130px;
+  height: 130px;
+}
+
+.titulo-serv-tres {
+  font-family: "Roboto";
+  font-size: 26px;
+}
+
+.texto-serv-tres {
+  font-family: "Roboto";
+  font-size: 16px;
+}
+
+.seccion-cuatro {
+  background-color: #e4cc85d7;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: 660px;
+}
+
+.contacto {
+  padding: 55px 52px 41px 52px;
+  font-family: monospace;
+  font-size: 32px;
+  text-align: center;
+}
+
+.form {
+  margin: auto 29px;
+  font-family: "Roboto";
+}
+
+.box-form {
+  margin-bottom: 27px;
+}
+
+.label {
+  display: block;
+  margin-bottom: 9px;
+}
+.caja-input {
+  width: 335px;
+  height: 45px;
+  border: solid;
+}
+
+.texto-mensaje {
+  width: 335px;
+  height: 113px;
+  border: solid;
+}
+
+.boton {
+  width: 335px;
+  height: 45px;
+  background-color: lightgray;
+  border-radius: 4px;
+  font-size: 16px;
+  margin-bottom: 55px;
+}
+
+.footer {
+  width: 100%;
+  height: 493px;
+  padding: 20px;
+  background-color: lightgray;
+  display: flex;
+  flex-direction: column;
+}
+.logo-copyright {
+  margin: 30px 0px 50px 0px;
+}
+.logo-footer {
+  width: 90px;
+}
+.copyrigth {
+  font-family: monospace;
+  font-size: 18px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.footer-box {
+  margin-bottom: 35px;
+}
+
+.logo-insta {
+  vertical-align: middle;
+  width: 27px;
+  height: 27px;
+}
+
+.insta {
+  font-family: "Roboto";
+  font-size: 16px;
+  display: inline;
+  margin-left: 10px;
+}
+
+.logo-linkedin {
+  vertical-align: middle;
+  width: 27px;
+  height: 27px;
+}
+
+.lin {
+  font-family: "Roboto";
+  font-size: 16px;
+  display: inline;
+  margin-left: 10px;
+}
+.logo-github {
+  vertical-align: middle;
+  width: 27px;
+  height: 27px;
+}
+
+.git {
+  font-family: "Roboto";
+  font-size: 16px;
+  display: inline;
+  margin-left: 10px;
+}
