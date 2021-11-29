@@ -63,7 +63,7 @@ body {
   font-family: monospace;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 769px) {
   .menu-desktop {
     display: none;
   }
