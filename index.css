@@ -192,49 +192,17 @@ body {
   }
 }
 
-.logo-serv-uno {
+.logo-serv {
   width: 130px;
   height: 130px;
 }
 
-.titulo-serv-uno {
+.titulo-serv {
   font-family: "Roboto";
   font-size: 26px;
 }
 
-.texto-serv-uno {
-  font-family: "Roboto";
-  font-size: 16px;
-  max-width: 312px;
-}
-
-.logo-serv-dos {
-  width: 130px;
-  height: 130px;
-}
-
-.titulo-serv-dos {
-  font-family: "Roboto";
-  font-size: 26px;
-}
-
-.texto-serv-dos {
-  font-family: "Roboto";
-  font-size: 16px;
-  max-width: 312px;
-}
-
-.logo-serv-tres {
-  width: 130px;
-  height: 130px;
-}
-
-.titulo-serv-tres {
-  font-family: "Roboto";
-  font-size: 26px;
-}
-
-.texto-serv-tres {
+.texto-serv {
   font-family: "Roboto";
   font-size: 16px;
   max-width: 312px;
