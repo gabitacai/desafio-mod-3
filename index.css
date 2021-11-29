@@ -101,6 +101,7 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: space-evenly;
   background-color: #e4cc85d7;
   height: 538px;
 }
